@@ -30,13 +30,7 @@
 
 ---
 
-### Install dependencies using:
-```bash
-pip install pandas matplotlib
-
----
-
- 🧪 Example Usage:
+ ## 🧪 Example Usage:
 
 The script reads population data for the year 2020 and generates the following visualizations:
 
@@ -47,7 +41,8 @@ These visualizations help in understanding global population patterns.
 
 ---
 
- 📬 Contact:
+## 📬 Contact:
 
-Arigaran S
-Data Science Intern – Prodigy InfoTech  
+- Arigaran S
+
+- Data Science Intern – Prodigy InfoTech  
