@@ -1,9 +1,9 @@
  # 📊 PRODIGY_DS_01 – Data Visualization
 
 ## 📌 Project Summary
-This project is part of the **Prodigy InfoTech Data Science Internship – Task 01**.  
-The goal of this task is to visualize the distribution of a continuous variable using Python.  
-A real-world population dataset from the World Bank was analyzed and visualized.
+- This project is part of the **Prodigy InfoTech Data Science Internship – Task 01**.  
+- The goal of this task is to visualize the distribution of a continuous variable using Python.  
+- A real-world population dataset from the World Bank was analyzed and visualized.
 
 ---
 
