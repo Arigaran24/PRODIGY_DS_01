@@ -24,12 +24,30 @@
 ---
 
 ## ⚙️ Requirements
-- Python 3.x  
+- Python 
 - Pandas  
 - Matplotlib  
 
 ---
 
-## Install dependencies using:
+### Install dependencies using:
 ```bash
 pip install pandas matplotlib
+
+---
+
+ 🧪 Example Usage:
+
+The script reads population data for the year 2020 and generates the following visualizations:
+
+- A bar chart showing the top 10 most populated countries  
+- A histogram displaying the distribution of population across countries  
+
+These visualizations help in understanding global population patterns.
+
+---
+
+ 📬 Contact:
+
+Arigaran S
+Data Science Intern – Prodigy InfoTech  
